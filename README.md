@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mohammad Khamisi
 
-<!--
-**mkhamisi2007/mkhamisi2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps / Cloud Engineer | 3× AWS Certified  
+Master’s Student in Software Engineering – University of Lille  
+📍 France | Open to Internship / Junior Role
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-khamisi-963255314/" target="_blank">
+    <img src="https://badge.linkedin.com/static/images/badges/linkedin.png" alt="LinkedIn Profile"/>
+  </a>
+</div>
+
