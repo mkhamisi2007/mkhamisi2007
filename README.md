@@ -32,6 +32,21 @@ Currently focused on **AWS, containers, CI/CD, and cloud-native practices**.
     <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Khamisi-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-khamisi-963255314/" target="_blank">
+    <img src="https://img.shields.io/badge/Let’s%20Talk-Connect-0A66C2?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-khamisi-963255314/" target="_blank">
+    <img src="https://img.shields.io/badge/Agree%20%26%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-khamisi-963255314/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20from%20the%20Cloud-LinkedIn-4C9AFF?style=for-the-badge&logo=cloud&logoColor=white" />
+  </a>
+</div>
 
 ---
 
