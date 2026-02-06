@@ -7,9 +7,5 @@ Master’s Student in Software Engineering – University of Lille
 ---
 
 ## 🔗 Connect with me
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammad-khamisi-963255314/" target="_blank">
-    <img src="https://badge.linkedin.com/static/images/badges/linkedin.png" alt="LinkedIn Profile"/>
-  </a>
-</div>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mohammad-khamisi-963255314" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/mohammad-khamisi-963255314/en?trk=profile-badge">Mohammad Khamisi</a></div>
+              
