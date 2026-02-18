@@ -17,7 +17,7 @@ Currently focused on **AWS, containers, CI/CD, and cloud-native practices**.
 - ☁️ **AWS** (EC2, S3, IAM, ECS, Lambda)
 - 🐳 **Docker** | ☸️ **Kubernetes**
 - 🔁 CI/CD (GitHub Actions, GitLab CI)
-- 🐧 Linux | Bash | Python
+- 🐧 Linux | Bash | Python | Terraform
 
 ---
 
