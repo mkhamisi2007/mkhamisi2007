@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Khamisi
 
-🚀 **DevOps / Cloud Engineer** | **3× AWS Certified**   | **Kubernetes • Terraform • IaC** 
+🚀 **DevOps / Cloud Engineer** | **3× AWS Certified**   | **Kubernetes • Terraform • IaC**   
 🎓 Master’s Student in **Software Engineering** – University of Lille  
 📍 France | 🔍 Open to **Internship / Junior Role**
 
