@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Mohammad Khamisi
 
 🚀 **DevOps / Cloud Engineer** | **3× AWS Certified** | **CKA** | **Terraform**
+
 🎓 Master's Student in **Software Engineering** – University of Lille
+
 💼 Currently DevOps & Data Engineer Intern @ **Quicksort**, Paris
+
 📍 France | 🔍 Open to **CDI opportunities** (available from October)
 
 ---
