@@ -6,7 +6,7 @@
 
 💼 Currently DevOps & Data Engineer Intern @ **Quicksort**, Paris
 
-📍 France | 🔍 Open to **CDI opportunities** (available from October)
+📍 France | 🔍 Open to **CDI opportunities** (available from October 2026)
 
 ---
 
