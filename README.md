@@ -38,15 +38,15 @@ Interested in modern security architectures (**Zero Trust**) and integrating **A
 
 ### 🛠️ Projects
 
-**▸ [Argo CI/CD Platform](#)**
+**▸ [Argo CI/CD Platform](https://github.com/mkhamisi2007/Argo-CICD-Platform)**
 Argo Workflows · Argo Rollouts · EKS · Terraform · ECR · WAF · IRSA · Helm
 `git push` → canary deployment automatique sur EKS avec rollback via Prometheus
 
-**▸ [EKS CI/CD Production](#)**
+**▸ [EKS CI/CD Production](https://github.com/mkhamisi2007/terraform-aws-eks-cicd-project)**
 Terraform · EKS · CodePipeline · ALB
 Cluster Kubernetes privé avec pipeline build/test/deploy complet
 
-**▸ [Analytics Pipeline E-Commerce](#)**
+**▸ [Analytics Pipeline E-Commerce](https://github.com/mkhamisi2007/ecommerce-analytics-pipeline)**
 dbt · Snowflake · Dagster · GitHub Actions
 Pipeline de données end-to-end traitant 100k commandes réelles
 
